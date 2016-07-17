@@ -8,6 +8,6 @@ package main;
  */
 public class Debug
 {
-    
+	//Whether or not the program is in debugging mode
     public static boolean on = false;
 }

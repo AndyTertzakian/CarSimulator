@@ -6,8 +6,6 @@ package car;
 
  Features:
  * Tracks and manages information for appearance and fuel capacity.
-
-
  */
 
 public class Car {

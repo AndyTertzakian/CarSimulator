@@ -91,8 +91,7 @@ public class Track {
 			aTrack[index] = aCar;
 		else {
 			if ((index < 0) || (index >= Track.SIZE))
-				System.out.println("Placing car out of bounds of track 0-"
-						+ Track.SIZE);
+				System.out.println("Placing car out of bounds of track 0-" + Track.SIZE);
 		}
 	}
 

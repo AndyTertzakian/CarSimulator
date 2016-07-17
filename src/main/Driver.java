@@ -10,7 +10,8 @@ package main;
 
 public class Driver {
 	public static void main(String[] args) {
-		GameController aController = new GameController();
-		aController.execute();
+		//Create a new GameController and use it to execute the game
+		GameController gameController = new GameController();
+		gameController.execute();
 	}
 }
